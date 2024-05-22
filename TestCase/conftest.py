@@ -10,7 +10,7 @@ def appium_driver(request):
         "platformName": "Android",
         "appium:platformVersion": "13",
         "appium:deviceName": "emulator-5554",
-        "appium:app": "/Users/aw/Downloads/Android-MyDemoAppRN.1.3.0.build-244.apk",
+        "appium:app": "C:\\Users\\mgirj\\PycharmProjects\\appiumDemo\\MyDemoApp\\apk\\Android-MyDemoAppRN.1.3.0.build-244.apk",
         "appium:automationName": "UiAutomator2",
         "appium:ensureWebviewHavePages": "True",
         "appium:newCommandTimeout": "3600",
