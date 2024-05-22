@@ -1,0 +1,20 @@
+# test_variables.yml
+
+login_valid_credentials:
+  username: "bob@example.com"
+  password: "10203040"
+
+login_invalid_credentials:
+  username: "bob@examp.com"
+  password: "10203040"
+
+full_payment:
+  fullName: "Jack Swagger"
+  address: "2585 Montessori St £100,Las Vegas, NV 89117, US"
+  city: "Las Vegas"
+  state: "Nevada"
+  zipcode: "182356"
+  country: "United States"
+  cardNo: "37424555400126"
+  expDate: "05/26"
+  securityCode: "125"
